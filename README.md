@@ -1,7 +1,5 @@
 # Graphical-Password-Creator
 
-SYNOPSIS OF THE PROJECT - 
-
 "A picture is worth a thousand words", as Fred R. Barnard once said. According to studies, people remember about 80% of what they see. This is due to the fact that the human brain processes visual cues better than written language.
 ‘Graphical Password Creator’ is the name of the project. Its main objective is to make a safe interface for the user which reduces the likelihood of identity theft and secures data entered through its dependable authentication process. As the interface is designed to provide the user with a visually appealing collaboration, the user is less likely to forget his password. 
 
@@ -10,10 +8,12 @@ The first layer of security is selecting a picture, which is followed by the use
 
 Our aim in this project was to create an innovative program that would not only help clients store passwords .We accomplished this by compiling the GUI interfaces of Tkinter, Python programming and secure database storage of MySQL. We believe that our  project will prove to be a very useful tool.
 
+
 AIMS AND OBJECTIVES -
 *   To restrict unauthorised access of third person.
 *   To increase the security and safety of data as every user has their own unique password.
 *   To enhance the definition of password.
+
 
 ADVANTAGES -
 *   Its human-friendly password technique decreases the chances of the user to forget his/her password.
